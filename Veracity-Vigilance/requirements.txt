@@ -1,0 +1,15 @@
+# Core data science and machine learning packages
+numpy>=1.19.5
+pandas>=1.1.5
+scipy>=1.6.0
+scikit-learn>=1.0.0
+joblib>=1.2.0
+threadpoolctl>=3.1.0
+
+tensorflow>=2.8.0
+keras>=2.8.0
+nltk>=3.6.0
+matplotlib>=3.3.4
+seaborn>=0.9.0
+plotly>=5.5.0
+streamlit>=1.10.0
